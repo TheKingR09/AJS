@@ -1,6 +1,3 @@
-# SELFBOT ONLY
-[![PrankBots](https://img.fireden.net/v/image/1461/72/1461725093324.gif "Prankbots")](https://bit.ly/2xbVxlh)
-
 ## VPS SERVER
 - install module
 ```
