@@ -21,8 +21,8 @@ me = LINE("YOUR TOKEN")
 ```
 - runner
 ```
-cd sbonly
-python3 sbonly.py
+cd AJS
+python3 js.py
 ```
 *LINE Messaging's private API*
 *Modifed by: PrankBots*
